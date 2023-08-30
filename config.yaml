@@ -1,0 +1,4 @@
+clash:
+  core: vcore
+  startup: vstartup
+speedthread: vspeed
